@@ -1,0 +1,55 @@
+>>> ================================ RESTART ================================
+>>> 
+FelizNavidad vs. El Guasón
+(C,C), (C,C), (C,C), (C,D), (C,C), (C,C), (D,C), (C,D), (C,C), (C,C)
+
+Puntajes: FelizNavidad = 7, El Guasón = 10
+
+Lucifer vs. El Guasón
+(D,C), (D,D), (D,D), (D,C), (D,C), (D,C), (D,D), (D,C), (D,C), (D,D)
+
+Puntajes: Lucifer = 12, El Guasón = -6
+
+FelizNavidad vs. Lucifer
+(C,D), (C,D), (C,D), (C,D), (C,D), (C,D), (D,D), (C,D), (C,D), (C,D)
+
+Puntajes: FelizNavidad = -9, Lucifer = 18
+
+Lucifer vs. Prueba
+(D,C), (D,D), (D,D), (D,C), (D,C), (D,D), (D,C), (D,C), (D,C), (D,D)
+
+Puntajes: Lucifer = 12, Prueba = -6
+
+FelizNavidad vs. Prueba
+(C,C), (C,C), (C,C), (C,D), (C,C), (C,C), (D,C), (C,D), (C,C), (C,C)
+
+Puntajes: FelizNavidad = 7, Prueba = 10
+
+TitForTat_Avg vs. FelizNavidad
+(C,C), (C,C), (C,C), (C,C), (C,C), (C,C), (C,D), (C,C), (C,C), (C,C)
+
+Puntajes: TitForTat_Avg = 8, FelizNavidad = 11
+
+Prueba vs. El Guasón
+(C,C), (C,C), (C,C), (D,D), (D,C), (C,D), (C,C), (C,C), (D,C), (C,D)
+
+Puntajes: Prueba = 7, El Guasón = 7
+
+TitForTat_Avg vs. Prueba
+(C,C), (C,C), (C,C), (C,D), (C,C), (C,C), (C,C), (C,D), (C,C), (C,C)
+
+Puntajes: TitForTat_Avg = 6, Prueba = 12
+
+TitForTat_Avg vs. Lucifer
+(C,D), (D,D), (D,D), (D,D), (D,D), (D,D), (D,D), (D,D), (D,D), (D,D)
+
+Puntajes: TitForTat_Avg = -1, Lucifer = 2
+
+TitForTat_Avg vs. El Guasón
+(C,C), (C,C), (C,C), (C,D), (C,C), (C,C), (C,C), (C,D), (C,C), (C,C)
+
+Puntajes: TitForTat_Avg = 6, El Guasón = 12
+
+Totales:  [19, 16, 44, 23, 23]
+ganador:  [2]
+Lucifer
