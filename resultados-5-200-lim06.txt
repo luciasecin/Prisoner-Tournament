@@ -1,0 +1,69 @@
+
+----------------Ronda 0 -------------
+
+Alterneitor | C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C- | -92
+Mastermind  | CCCC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 196
+
+El Jajas    | CCC-C----CC-CCC-CCC-CCC-CC-CC-CCC-C-C-CCC-CCC-CCC--C-CCC-C--C----CC--CCC-CC-CCC--CCC-CCC--CC-CC----C-C--CCC---CCC---C--CC-C---CC-CCC--C--CCC-CC-CCC-CC---CCC-CC--CCC--CC-CCC-CCC-C-CC--C-CCC-CCC---C-C-C | -110
+Mastermind  | CCC----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 229
+
+Rencorini   | CCC----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 1
+Mastermind  | CC------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | 4
+
+Copycat     | CCC----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 1
+Mastermind  | CC------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | 4
+
+Lucifer     | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 4
+Mastermind  | --CC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -2
+
+Michael     | CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC | -194
+Mastermind  | -CCC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 397
+
+Azaroso     | CC--C-CCCCC-----C-CCCC--CC--CC-C-C--CC----CCCC-CC-CC-C---C-----C--C-C--C--CCC----CC-CCCC-CC-----CCC----C---CCC--C--C-CC-C-CCC-----C----CCC-C--CC-CCCC----C-C-CCC--C--CC--C---C---C---CC----C--CCCCC--C-C | -87
+Mastermind  | CCC----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 183
+
+Mayorista   | ---C---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 7
+Mastermind  | -CC-----CC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -2
+
+Proba       | CCCCCC-C-CC----CCC-C------C---C--C------------------------------------C------------------------------------------------------------------C--------------------------------------------------------C----- | -11
+Mastermind  | CCCC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 34
+
+Rencorini   | 1194
+Proba       | 1122
+Mastermind  | 1043
+Copycat     | 1038
+Lucifer     | 1026
+Mayorista   | 885
+El Jajas    | 613
+Alterneitor | 608
+Michael     | 502
+Azaroso     | 408
+
+----------------Ronda 1 -------------
+
+Alterneitor | C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C- | -96
+Mastermind  | C--C---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 198
+
+El Jajas    | C--C-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC------CC--C-CCC-CC-CCC--CCC--CCC---CCC-CC-CCC-C-C-----C-C----C-C-CC-CC-C-CC-CCC------CC-C---C-CCC-CC | 68
+Mastermind  | --C-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC----------------------------------------------------------------------------------------------------- | 152
+
+Traceback (most recent call last):
+  File "Tournament.py", line 116, in <module>
+    run()
+  File "Tournament.py", line 95, in run
+    t.round_robin()
+  File "Tournament.py", line 78, in round_robin
+    (match_score1, match_score2) = self.play_match(
+  File "Tournament.py", line 52, in play_match
+    (s1, s2) = (p1.pick_strategy(), p2.pick_strategy())
+  File "/home/lucy/Documents/TDJ/torneo/PlayerMastermind.py", line 88, in pick_strategy
+    self.calculate_similarity() # Me fijo a que posible oponente se parece mas mi oponente
+  File "/home/lucy/Documents/TDJ/torneo/PlayerMastermind.py", line 45, in calculate_similarity
+    similarity = StrategyMatcher(None,self.possible_strategies[strategy],self.other_strategy_history).ratio()
+  File "/usr/lib/python3.8/difflib.py", line 644, in ratio
+    matches = sum(triple[-1] for triple in self.get_matching_blocks())
+  File "/usr/lib/python3.8/difflib.py", line 479, in get_matching_blocks
+    i, j, k = x = self.find_longest_match(alo, ahi, blo, bhi)
+  File "/usr/lib/python3.8/difflib.py", line 411, in find_longest_match
+    if k > bestsize:
+KeyboardInterrupt

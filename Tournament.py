@@ -13,7 +13,7 @@ from PlayerJajas import Jajas
 from PlayerRencorini import Rencorini
 from PlayerMayorista import Mayorista
 from PlayerProba import Proba
-from PlayerOraculo import Oraculo
+from PlayerMastermind import Mastermind
 from PlayerPrueba import Prueba
 
 from collections import Counter
@@ -61,7 +61,7 @@ class Tournament():
       history2 += 'C' if s2 else '-'
     
     # Log
-    if (p2.name == "Oraculo" or p2.name == "Oraculo"):
+    if (p2.name == "Mastermind" or p2.name == "Mastermind"):
       print(f'{p1.name:{self.print_padding}} | {history1} | {score1}')
       print(f'{p2.name:{self.print_padding}} | {history2} | {score2}')
       print()
@@ -87,11 +87,11 @@ def run():
   second = []
   third =[]
   fourth = []
-  for iter in range(100):
+  for iter in range(10):
     print("\n----------------Ronda", iter, "-------------\n")
-    competing = [Alterneitor, Jajas, Rencorini, Copycat, Lucifer, Michael, Azaroso, Mayorista, Proba, Oraculo]
-    #competing = [Alterneitor, Rencorini, Copycat, Lucifer, Michael, Oraculo]
-    t = Tournament(competing,150)
+    competing = [Alterneitor, Jajas, Rencorini, Copycat, Lucifer, Michael, Azaroso, Mayorista, Proba, Mastermind]
+    #competing = [Alterneitor, Rencorini, Copycat, Lucifer, Michael, Mastermind]
+    t = Tournament(competing,200)
     t.round_robin()
     
     # Log
@@ -108,9 +108,9 @@ def run():
   
   print("---------------Final: 10 Competidores---------------")  
   print("---------------100 rondas de 150---------------------") 
-  print("Primero:",Counter(first)["Oraculo"])
-  print("Segundo:",Counter(second)["Oraculo"])
-  print("Tercero:",Counter(third)["Oraculo"])
-  print("Cuarto:",Counter(fourth)["Oraculo"])
+  print("Primero:",Counter(first)["Mastermind"])
+  print("Segundo:",Counter(second)["Mastermind"])
+  print("Tercero:",Counter(third)["Mastermind"])
+  print("Cuarto:",Counter(fourth)["Mastermind"])
 
 run()

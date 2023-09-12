@@ -10,11 +10,11 @@ import random
 
 #EN GENERAL, GANA, A VECES PIERDE A LUCIFER
 
-class Oraculo(Prisoner):
+class Mastermind(Prisoner):
 
     def __init__(self):
         
-        self.name="Oraculo" # nombre completo a imprimir
+        self.name="Mastermind" # nombre completo a imprimir
         self.N = 0 # total de rondas hasta ahora
         
         self.possible_strategies = {
@@ -94,7 +94,7 @@ class Oraculo(Prisoner):
         if self.N < 4: #Randomiza hasta la 5ta jugada para identificar al jugador y luego elige estrategia
             pick = bool(random.getrandbits(1))
             
-        elif opponent_similarity < 0.6: # Si no encuentra un oponente similar, elige la estrategia de siempre disentir
+        elif opponent_similarity < 0.7: # Si no encuentra un oponente similar, elige la estrategia de siempre disentir
             pick = False
             
         else:    
