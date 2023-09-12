@@ -61,10 +61,10 @@ class Tournament():
       history2 += 'C' if s2 else '-'
     
     # Log
-    #if (True):
-      #print(f'{p1.name:{self.print_padding}} | {history1} | {score1}')
-      #print(f'{p2.name:{self.print_padding}} | {history2} | {score2}')
-      #print()
+    if (p2.name == "Oraculo" or p2.name == "Oraculo"):
+      print(f'{p1.name:{self.print_padding}} | {history1} | {score1}')
+      print(f'{p2.name:{self.print_padding}} | {history2} | {score2}')
+      print()
     
     # Return scores
     return (score1, score2)
@@ -87,7 +87,8 @@ def run():
   second = []
   third =[]
   fourth = []
-  for iter in range(30):
+  for iter in range(100):
+    print("\n----------------Ronda", iter, "-------------\n")
     competing = [Alterneitor, Jajas, Rencorini, Copycat, Lucifer, Michael, Azaroso, Mayorista, Proba, Oraculo]
     #competing = [Alterneitor, Rencorini, Copycat, Lucifer, Michael, Oraculo]
     t = Tournament(competing,150)
@@ -97,17 +98,16 @@ def run():
     d = {}
     for i in range(len(competing)):
       d[competing[i]().name] = t.scores[i]
-    #for (name, score) in sorted(d.items(), key=lambda item: -item[1]):
-      #print(f'{name:{t.print_padding}} | {score}')
+    for (name, score) in sorted(d.items(), key=lambda item: -item[1]):
+      print(f'{name:{t.print_padding}} | {score}')
     
     first.append(sorted(d.items(), key=lambda item: -item[1])[0][0])
     second.append(sorted(d.items(), key=lambda item: -item[1])[1][0])
     third.append(sorted(d.items(), key=lambda item: -item[1])[2][0])
     fourth.append(sorted(d.items(), key=lambda item: -item[1])[3][0])
-    print(iter)
   
   print("---------------Final: 10 Competidores---------------")  
-  print("---------------30 rondas de 150---------------------") 
+  print("---------------100 rondas de 150---------------------") 
   print("Primero:",Counter(first)["Oraculo"])
   print("Segundo:",Counter(second)["Oraculo"])
   print("Tercero:",Counter(third)["Oraculo"])

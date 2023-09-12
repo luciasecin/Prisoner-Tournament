@@ -94,8 +94,8 @@ class Oraculo(Prisoner):
         if self.N < 4: #Randomiza hasta la 5ta jugada para identificar al jugador y luego elige estrategia
             pick = bool(random.getrandbits(1))
             
-        #elif self.most_similar_score < 0.8: # Si no encuentra un oponente similar, elige la estrategia de siempre disentir
-        #    pick = False
+        elif opponent_similarity < 0.6: # Si no encuentra un oponente similar, elige la estrategia de siempre disentir
+            pick = False
             
         else:    
             if opponent == "Disentido":
