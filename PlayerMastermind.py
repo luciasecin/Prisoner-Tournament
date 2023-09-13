@@ -1,14 +1,13 @@
-#Ejemplo
+#Grupo:
+#  Lucía Secín (748/19)
+#  Pablo Dallegri (445/20)
 
 from Prisoner import Prisoner
 from difflib import SequenceMatcher as StrategyMatcher 
 import random
 
-#EL SEQUENCE MATCHER NO TIENE EN CUENTA EL ORDEN!! HACEMOS UNA NOSOTROS??
-#CUANDO JUEGA CON LAS ESTRATEGIAS QUE TIENE, GANA PERO HABRIA QUE HACER ALGO PARA CUANDO NO ES NINGUNA
-#PARA GANARLE A ALGUNAS ESTRATEGIAS, EL GANAR O NO DEPENDE DE LA CANTIDAD DE RONDAS
-
-#EN GENERAL, GANA, A VECES PIERDE A LUCIFER
+# Mastermind onoce algunas estrategias muy basicas de juego  e intenta predecir contra quien esta jugando.
+# A veces, le sale muy bien, otras no tanto.
 
 class Mastermind(Prisoner):
 
@@ -25,9 +24,9 @@ class Mastermind(Prisoner):
             "Alternador": []
         }
         
-        self.my_strategy = []
-        self.other_strategy_history = [] # asumo (arbitrariamente) que el oponente arranca cooperando
-        self.most_similar_strategy = "" #Empieza asumiendo que el otro va a coopera
+        self.my_strategy = [] # Guarda su historial
+        self.other_strategy_history = [] # Guarda historial de estrategias de su oponente
+        self.most_similar_strategy = "" # Posible estrategia oponente
         self.most_similar_score = 0
     
     # Calcula la similitud entre el oponente y los que podria ser    
@@ -94,7 +93,7 @@ class Mastermind(Prisoner):
         if self.N < 4: #Randomiza hasta la 5ta jugada para identificar al jugador y luego elige estrategia
             pick = bool(random.getrandbits(1))
             
-        elif opponent_similarity < 0.7: # Si no encuentra un oponente similar, elige la estrategia de siempre disentir
+        elif opponent_similarity < 0.7: # Si no encuentra un oponente similar, elige disentir
             pick = False
             
         else:    
@@ -108,8 +107,7 @@ class Mastermind(Prisoner):
                 
             elif opponent == "Rencoroso":
                 # La mejor estrategia contra este es cooperar siempre hasta el ultimo movimiento
-                # y ahi disentir, pero no sabemos cuantas jugadas son f, minimo 100, medio que habria que adivinar
-                # cual es la ultima jugada, por ahora asumimos 100
+                # y ahi disentir, pero no sabemos cuantas rondas se juegan
                 if False in self.other_strategy_history:
                     pick = False
                 else:

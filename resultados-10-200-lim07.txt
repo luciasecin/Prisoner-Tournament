@@ -4,403 +4,386 @@
 Alterneitor | C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C- | -94
 Mastermind  | CC-C---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 197
 
-El Jajas    | CCC-CCC-CC-CCC----CC--CCC-CC---CC-CC-CCC--CCC-C--CC-CC--CCC--CCC---CCC----C---CCC-CCC--CCC-CC---CCC--CC-CCC-C--C-C-CCC--C-CCC-CCC-CCC-C---C--CCC--CCC-CC----CC-CCC-C-C--C-CCC-CC--CC--C-----CCC-C-CCC--- | -103
-Mastermind  | CCCC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 218
+El Jajas    | CCC-CCC-----CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CC-CC-C--CCC-CCC-CCC-CCC-CCC-CCC-CCC-CC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CC-CC-CCC-CCC-CC | 159
+Mastermind  | CCCC-----------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC---------------------CCCCCCCCCCCCCC-CCCCC-CCCCC-CCCCCC-CCCC--C-CCCCC-C-CCCCCCC-CCCC-CC--C-CCCC-C-CCCC | 138
+
+Rencorini   | C------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 3
+Mastermind  | -CC----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 0
+
+Copycat     | CC-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC---------------------------------------------------------------------------------------------------- | 97
+Mastermind  | C-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC----------------------------------------------------------------------------------------------------- | 100
+
+Lucifer     | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 4
+Mastermind  | CC------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -2
+
+Michael     | CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC | -194
+Mastermind  | CC-C---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 397
+
+Azaroso     | ---CC--C--C----CC-C-C-CCCCC-C-C---CC-----C---CC-C--C-CC----C--C-CC--CCC---CC---CCCC------CC----C-CC---CC--C-CCC-CCCCC--CC--C----C-------CC-CC--C-CC-CC--C-C--CCC-CCCCC---C-C---C--CCC-C-C-----C-CC-CCC-- | 214
+Mastermind  | CCCC----CC-CCCCCCCCCCCC--C--CCCC--CC-CC-C--CCC-CCCCCCCCCCCC-CCCCCCCCC-C-CCCC-C-CCCCCCCC--C-CCC-C-CC-CCCC-C-CCCCCCCCC-C-CC-CC-CCCCCCCC-CCCC-CCCCCCC-CC-CCCC-C---C-CCCCCC---CCC-CCC-CCCCCCC-CCCCCCCCCCCCCC | 28
+
+Mayorista   | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 2
+Mastermind  | ---C---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -1
+
+Proba       | CCCCC--C--C------C---CC--C-------C---CC-C--C-CC-CCCCCCCCCCCCCC-C--CCC-C---CCC--CCC---CCCC---CCCC-CC-C-CCC-CCCCC-C-C-CC-CCCCCCC-C-CC-CCC-CCCC-CC-C-CCCCCC-C-C-CCCCC-CCCCCCCCCCCCC-CCCCCCCCCCCCCCCCCC-CCCC | 168
+Mastermind  | CCC-----------CCCCC-C-CCCCCCCC---CCCCC-CCCCCC-CCCCC--CCCC-CCCCC--CCCCC-CCCCCCCCCC-CCCCCCCCCCCCCC-CCCCCCCCCC-CCCCC-C-CCCCCC-C-CCCCC-CCCCCC-CCCCCCCCC---CCCCCCC-CCC-CCCC--CCCC-C-CCCCC-CCCCC-CC-CCCCCC---- | 117
+
+Rencorini   | 1240
+Copycat     | 1130
+Proba       | 1108
+Lucifer     | 1044
+Mastermind  | 974
+El Jajas    | 851
+Mayorista   | 704
+Azaroso     | 648
+Alterneitor | 598
+Michael     | 514
+
+----------------Ronda 1 -------------
+
+Alterneitor | C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C- | -96
+Mastermind  | -C--C--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 198
+
+El Jajas    | C-CC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC----C-CC-CCC--C-C--CC--C-C-C-CCC-CCC-CCC-CCC-C-CCC-CCC-CCC-CCC-CC-CCC-C-CC-CCC--CCC-CCC-CCC-CC--CCC- | 160
+Mastermind  | -CC-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC---------------------------C-CC-CCC--CCC-CCC-C-CCCCCCC---CCC-CCC--CCC-C-CC-CC-C-CCC-CCC-CCCCCC--CCCCC | 127
 
 Rencorini   | C------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 5
 Mastermind  | -CCC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -1
 
-Copycat     | CCCC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 2
-Mastermind  | CCC----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 5
+Copycat     | CC------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | 0
+Mastermind  | C------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 3
 
 Lucifer     | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 2
 Mastermind  | --C----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -1
 
-Michael     | CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC | -196
-Mastermind  | --CC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 398
+Michael     | CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC | -198
+Mastermind  | -C------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | 399
 
-Azaroso     | CCCC-CCCCC--C-C---C-C-CC-C---C--CCCC-CCCCCCCC-CCC--C-C----CC-C--C-CCCC-CCC--CC---CC----CCCC-C--CCC-C---CC--C-C-C-C--C-CCCC--C--C-C---C--C--CC-CC-CC-CCCC--CC-C-CCC----C--C-----CC-C--CC-CCC------CCCCCC- | -102
-Mastermind  | -CC----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 210
+Azaroso     | ---C---C-C-C--C-C---CCC---CCCCCCC-CCC------C-CC---CCC-CCC-C---CCC--C-CC-CCCC-CCCC-CCC---C---C-C-CC-----C-C-C-CCCCCC--C-CC-CC-C-CCC---CCC-C----C-C-CC-CC---C-C-C-C--C--C-------C-C--CC-CC-CCCC---C----CCC | 199
+Mastermind  | --C---------CCCCCC------C-CCCC-CC-CC-CCCC-CCCCC-CCCCC--C--CCCCCC-C-C-CCCCCC-CCC-CCCCCCCCCCCCCC-CCCCCCC-CC-CCCCCCCCCCCCC--CCCC-CCCCCCCCCCCCCC-CCCC--CCCCCCC-C-CCCCCCCC-CCCC--CCCCC-CCCCCCC-CCCC--CCCCCCC- | 49
 
-Mayorista   | -CCCCC-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 7
-Mastermind  | CC-C------CCC------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 4
+Mayorista   | -CCCCC-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 1
+Mastermind  | CCC----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 7
 
-Proba       | CC-C-------C--C---------C------------------------------------------------------------------------------------------C-----------------------------------------------C------------------------------------ | -6
-Mastermind  | C------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 15
+Proba       | C--C------CCC---C-CCC-CCCCCCC--C-CCC-C-CC-C-CCCCCCC-CCCCCCCC-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC-C-CCCCCCC-C-CCC--C-CC-CCCC-C-CCCCCCC-CCCC-C-CCCCC---CCCCC---CCC-CCCCC-CCC-CC-CCCC--CCCCCCCC-C-CCC-CCC--CCC | 142
+Mastermind  | -C-----CCCCCCCCCCCCCCC-C-CC-CCCCCCC-CCCCCCCCCCCCCCCCCCC-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC---------------------------CCCCCC-------CCC-CCC-CC-CCCCCCCCCCCCC--CCCCCCCCCCCCCCCCCCCCCCCCCCCC-C---C- | 151
 
-Rencorini   | 1192
-Mastermind  | 1045
+Rencorini   | 1242
+Proba       | 1071
 Copycat     | 1037
-Lucifer     | 1010
-Proba       | 917
-Azaroso     | 707
-Mayorista   | 597
-Alterneitor | 596
-El Jajas    | 542
-Michael     | 504
-
-----------------Ronda 1 -------------
-
-Alterneitor | C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C- | -92
-Mastermind  | -C-CCC-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 196
-
-El Jajas    | CC---CCC-CCC-CCC-CCC--C-C--CC-CCC-CCC--CC--CC---C-CC--CCC-C-C--CCC---C--C-C-CCC-CCC---C--C-C-CC-CC-CCC-CCC---CCC-C--CC---CCC-CCC--CCC----C-CC--C-CCC--C--CC-C--C---C-C--CC-CCC-C-----C-CC-CC--CCC-C-CC-- | -105
-Mastermind  | C------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 213
-
-Rencorini   | C------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 3
-Mastermind  | -C-C---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 0
-
-Copycat     | C-C--CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC---------------------------------------------------------------------------------------------------- | 95
-Mastermind  | -C--CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC----------------------------------------------------------------------------------------------------- | 98
-
-Lucifer     | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 4
-Mastermind  | --CC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -2
-
-Michael     | CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC | -192
-Mastermind  | CCCC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 396
-
-Azaroso     | --C-C---C-C-C-CCCCC-CC----CCC----CC-CC--CC-CC-CCC--CCCC-CCC-----CC--C-CCCCC--C----C-CC-CC----C-CC-CC--CCC-CC---C-CC-CCCCC-C---C-C--C---CCCC--C--CC-----C--CCC----------C-C--C-CC---CC--C--C-C--CCC-C-CCC | -85
-Mastermind  | --CC-CC------CC----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 188
-
-Mayorista   | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 2
-Mastermind  | --C----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -1
-
-Proba       | C---C-------C--CC----CCC-C-C---CC-C-C--C--------------C----C-----C----C------------------------------CC----C---------C----------C----------------------------------C---C------------------------------C- | -13
-Mastermind  | ---C-CC--CCC--C----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 47
-
-Rencorini   | 1208
-Mastermind  | 1135
-Copycat     | 1125
-Lucifer     | 1012
-Proba       | 895
-Mayorista   | 676
-Alterneitor | 618
-El Jajas    | 584
-Azaroso     | 529
-Michael     | 492
+Lucifer     | 1026
+Mastermind  | 932
+El Jajas    | 854
+Azaroso     | 726
+Mayorista   | 690
+Alterneitor | 584
+Michael     | 498
 
 ----------------Ronda 2 -------------
 
-Alterneitor | C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C- | -92
-Mastermind  | CCCC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 196
+Alterneitor | C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C- | -96
+Mastermind  | --CC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 198
 
-El Jajas    | CCC-CC--CCC-C--C-CC--CCC--CCC-C------C--CCC-CCC----C--CC-CC--C---CCC--C---C-C--CC-CC-CCC-CCC--CC---CC-C-CCC--CC-C---C-CC-CCC-C-CCC-CC-CCC-C-CC---CCC--C-C---C--CCC----C---CCC-CCC--CCC-CCC-C---C-CCC-C-- | -99
-Mastermind  | C-C-----C----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 207
+El Jajas    | CCC-CC-CCC--C-CCC-CCC--C-CC-CCC-CC-C-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC--CC---CC-CCC-CCC-CC-CCC-CCC-CCC-CCC--CCC-CCC-CCC-CCC-CCC-CCC-CCC-C-CCC-CCC-C-CCC--CCC-C-CCC-CCC-CCC | 175
+Mastermind  | CCC----------CCC--CCC---C--CCCCCC-C-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC--C-----C-CC-CCC-CCC-CCCCCC-CCCCCCCCC-C--CCCCC-CCCCCCCCCC-CCCCCCCCC-CCCCC-C-C-CCCC-CCCCC-CCCCCCCCCCCC | 124
 
-Rencorini   | CC------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | 4
-Mastermind  | C-CC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 1
+Rencorini   | CC------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | 0
+Mastermind  | C------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 3
 
-Copycat     | C-C-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC---------------------------------------------------------------------------------------------------- | 96
-Mastermind  | -C-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC----------------------------------------------------------------------------------------------------- | 99
+Copycat     | CC------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | 0
+Mastermind  | C------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 3
 
 Lucifer     | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 4
-Mastermind  | C--C---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -2
+Mastermind  | CC------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -2
 
-Michael     | CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC | -196
-Mastermind  | -CC----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 398
+Michael     | CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC | -194
+Mastermind  | C-CC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 397
 
-Azaroso     | CC-C-C--C-CCCC--CCCCC---CC-CCCCCCC------CCCCC-CCC---C-CC-CCC-CC-CCC-CC-CCCCC--C--C---CCCC-CCC--CCC---C--CC-----C--CCC--CCCCCC-C-CC--C-C----C-C-C-C----CCC---CCCCC-CCC-CC-----CCC-C-CC--C-CCC---C--CCC--- | -104
-Mastermind  | -CCC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 217
+Azaroso     | -CC---C--C--------C-C--C--CC-CCCC--CCC-C-CC-C-CC---C-C--CCCCC--C--CC-C-CCC--C-CC-CCC-C-C-C-CCCC-CCC--CCC-C--C----C---CCC-C--------C-CC-C----C-CCCCCCCCC-CCC--C-CC-CCC------CC-C-C-C-C-CC----C---C--CC--- | 213
+Mastermind  | CC-C---------C--CCCCCCCCCCCCC---CCCCCCCCCCCC-CCCCCCCCCCCCCC-C-C--C-CC-CC-C-C-C-CCCCCCCCCCCCC-CCCCCCCCCCCCCCCCCC-CCCCC-CC-CCCCC-CCCCCC-CCCCC-CC-C-CCCCCCCCCCCCC-CCCCCCC-CCCCCC-CCCCCC-CCC--C-CC--C-CCCCCC | 39
 
-Mayorista   | -CCCCC-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 7
-Mastermind  | CC-C------CCC------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 4
+Mayorista   | -CCCCC-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 1
+Mastermind  | CCC----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 7
 
-Proba       | C------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -1
-Mastermind  | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 2
+Proba       | C---CCCCC-CC--CCCCCCCCCCC-C-CCCCCCC-C-C-CCC-C-CC-C-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC-CCCC--CCCCCCCCCCCCCCCC-CCCCCCCC-CCCCCCC-CCCC-CC-CC-CCCC-C--CCCCCCCCCCCCCC---CCCCCCCC-C----CCC | 101
+Mastermind  | ---C-CCCCCCCCCCCCCCCCCCC-C-CCCCCCCCCCCCCCCCCCCCCCCCCCCC-CCC-CCCCCCCCCCC-CC-C-CCCCCCCCCCCCCCCCCCCCCC--------------------------CC--C-CCCC-C-CCCCCCC-C----CCC--C----C-CCCC--C--CC--CCCC-CCCCC-CCC---CC-CCC- | 197
 
-Rencorini   | 1231
-Copycat     | 1133
-Mastermind  | 1122
-Lucifer     | 1014
-Proba       | 940
-Azaroso     | 661
-El Jajas    | 598
-Alterneitor | 594
-Mayorista   | 566
+Proba       | 1232
+Rencorini   | 1218
+Copycat     | 1030
+Lucifer     | 1030
+Mastermind  | 966
+El Jajas    | 873
+Mayorista   | 852
+Azaroso     | 708
+Alterneitor | 604
 Michael     | 512
 
 ----------------Ronda 3 -------------
 
 Alterneitor | C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C- | -98
-Mastermind  | --C----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 199
+Mastermind  | ---C---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 199
 
-El Jajas    | CCC---CC-C------CCCCC----C--C-CCCCC-CCC-C-CC-C-C-C-CC-CC-CCC-CCC-CC--CCC-CC-C-CC-C-C--CC-C-CC-CCC--CCC-CCC--C-CC-CCC-CCC--CC--CCC-CCC-CC-CCC--C---C-CC-C-CCC-C-CC-CCC-C--C-CCC-C-CCC-CCC---------C-CC-CC | -116
-Mastermind  | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 232
+El Jajas    | CCC-CC---CC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC--CCC---CC-CCC-CCC-CCC-CCC-C-CCC-CCC-C-CCC--CCC--CCC-CC-CCC-CCC-CCC-CCC--CCC-CC-CCC-CCC-CCC-CCC-C-CCC | 182
+Mastermind  | CC-------C-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC-----------CCCCCCCCCC--CCCC-CCC-CCCCC--CCC-CC---C-CCCC-CCCCCCC-CCCCCCCC-CCCCCC---CCCCCC-CCCCCCCC-CCCC | 122
 
-Rencorini   | CC------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | 0
-Mastermind  | C------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 3
+Rencorini   | C------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 1
+Mastermind  | --C----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 1
 
-Copycat     | CCCC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 2
-Mastermind  | CCC----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 5
+Copycat     | CCC----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 1
+Mastermind  | CC------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | 4
+
+Lucifer     | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 6
+Mastermind  | C-CC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -3
+
+Michael     | CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC | -198
+Mastermind  | ---C---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 399
+
+Azaroso     | CCC---CCCC-CCC-C-C-CCCC-CCC--CC--C---C-CCCCCCC-CC-CCC----C----CC-C-CCC-CC-CC--CC-----CC--C--C--C--C--C-CC------CC-CCC----C----------C-C--C-C---C-C-CC-CC--C--C---C--C---C-C-CCCC--CCCCCC--C-CC-C-CCCCCCC | 184
+Mastermind  | CC----------CC--CC-CC-CCCCCC--CC-CCCC-CCCC-CC-CCC-CCCC--CC-C--CCCCC-CC-C-CCCC-CCCC-CC-CCCCC-C-CCCC-C-CCCCCCCCC--C-CCCCCCCCC-CCCCCC--CC--CCCCCCCC-CCCCC-CCCC-CCCCCC-CC-CC-CCCC-C-CCCCCCCCCCCCCCC-CC----C- | 58
+
+Mayorista   | -C------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | 1
+Mastermind  | C------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 1
+
+Proba       | CCCCCC--CC----C---CCCC--CC-CCCCCCCCCCC-CC-CCCCC-CCC---CCCCCCCCC--CC-CCCCCC-CCCCCC-CCC-CCCC-CCCC-CC-C-CCC-C--CCCCCCC-CCC---CC-CC-CC-CCCCC--CC-CCCCCCC-CCCCC-CCCCCCCC-CCC--CC-CCC-CCCCC-CCCC-CCC--C-CCCCC- | 164
+Mastermind  | CC-C--------CCCC---CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC-C-CCC--CCCCCCCCCCCCCC-CCCCCCCCC---CCC-C-C-CCCCCCCCCCC--CCCCCC-CCCCCCCC-CCCC-CCCCCC-CCCC-CCCC---CCCCC--CCCCCCCCC-----C-CCCCCCC-CCCC-CCCC-C-C | 137
+
+Rencorini   | 1217
+Proba       | 1080
+Copycat     | 1044
+Lucifer     | 1008
+Mastermind  | 918
+El Jajas    | 899
+Mayorista   | 722
+Azaroso     | 703
+Alterneitor | 580
+Michael     | 494
+
+----------------Ronda 4 -------------
+
+Alterneitor | C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C- | -96
+Mastermind  | C--C---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 198
+
+El Jajas    | CCC-C-CCC-C-----C-CCC-CCC-CCC-CCC-CCC-CCC-CC-CCC-CCC-CCC-CCC-CCC-CCC-CCC--CCC-CCC-C--CCC-CCC--CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-C--CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-C-CCC-CCC-CCC-CCC-C | 161
+Mastermind  | ---C-------------CCCCCCCCCCCCCCCC-CCCCC--CC-C-CCCCCCCCCC-CCC--CCCCCCCCCC-CCCCCCC-C--CCCCCCC--C---CCCCCCC--CCCCCCC-CCCC-CCCCCCCC-C---CCC-CCCCCC-CCCCCCCCCCCCCCCCCCCCC-CCCCCCCC-CCCCCCC-C-C-CCC-CCCCCCCCCC | 131
+
+Rencorini   | C------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 3
+Mastermind  | --CC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 0
+
+Copycat     | C--C-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC---------------------------------------------------------------------------------------------------- | 95
+Mastermind  | --C-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC----------------------------------------------------------------------------------------------------- | 98
+
+Lucifer     | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 0
+Mastermind  | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 0
+
+Michael     | CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC | -194
+Mastermind  | C-CC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 397
+
+Azaroso     | --C---------C-CCCCC----CC-CCC-CC-C--CC--C---C---CCCC-CC-C-CC--C-CC--CCCC-CCCCCC-----C----CCC--CC---C-------CCCC-C--CCCC--CCC---CC---C-C-C-C-CC-C--CCCC-----C--C-C-CCCCC-CC--CCC-C-CCC--C--CC----C-----CC | 180
+Mastermind  | C--C--C----------CCCCCCCCCCCCCCCCCC--CCCCCCCCC-CCC-CCCC--CCCCCC-CCC-C-CCCCCCC--C-C-CCC-C--CCCC-CCCCCCCCCC-C-CC-CCC--C-CCCC-CC-CCC-CCCCCCCCCCC--C-C------CC-CCCCCCC-CCCCCCCC-CCCCCCCC-----C-CC-CC-CC-C-CC | 54
+
+Mayorista   | -CCC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 1
+Mastermind  | CC------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | 4
+
+Proba       | CC-C-----C---C-CCC-CCCC-CC-CCCCCCCCCCCCCCCC-CCCCCC-CCCCCCCCCCCC-CCCCCCCCCCCCCCCCCCCCCCCCCCC---CCCCCCCCCCC-CCCCCCCCC-CCCCCCCCCC-CCC-C--CCCC-CCCC-CCC--CC--CC-CCC---CCCCCC-CC--CCC-CCCCCCC-C-CC-C-CCC-CCCC | 138
+Mastermind  | C-C-CC----CCC-CCCCCCCCCCCCCCCCCCCC--C-CC-CCCCCCCCCCCCCCCCCCC-CCC-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC-------------------C---CCCCC-CCCCCCCC-C-C-C--CCC--------CCCCCCCCCCCCCCCCC-CCCCCCCCCCCC-CCCCC-CCCCCCC- | 165
+
+Proba       | 1260
+Rencorini   | 1220
+Copycat     | 1129
+Mastermind  | 1047
+Lucifer     | 1020
+El Jajas    | 872
+Mayorista   | 864
+Azaroso     | 655
+Alterneitor | 640
+Michael     | 492
+
+----------------Ronda 5 -------------
+
+Alterneitor | C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C- | -92
+Mastermind  | CCCC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 196
+
+El Jajas    | CCC-C---C---C-C--C-CCCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-C-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-C-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC- | 187
+Mastermind  | CC----------------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC--CCCCCC-CCCCC--CCCCC-CCCCC-CCC-C---CCCCCCCCCCCCCCCCCCCCC-C-CC-C-CCCCC-CCCCCCCCCCCCCCCC-CCCCCCCC-CCC- | 121
+
+Rencorini   | CC------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | 4
+Mastermind  | C-CC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 1
+
+Copycat     | CCCCC--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 3
+Mastermind  | CCCC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 6
 
 Lucifer     | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 2
 Mastermind  | C------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -1
 
 Michael     | CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC | -196
-Mastermind  | C-C----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 398
+Mastermind  | CC------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | 398
 
-Azaroso     | CC----CCC---C---CC---C--C-C-CC--C---CC-C-CC---CC-C-C--CCC-----CC--CCCCC--CC-C------CCC-CCC---CCC-C-C-CC-CCCCC-C--C-C--CC---C--CCC---C--CCC-C-----C-CCCCCCCC---CCC----CCC-CC-----CCC----CCC---CC-C-----C- | -83
-Mastermind  | -C-C------CC-----CC------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 184
+Azaroso     | C-C-C-C-CCCCC------C-CCC-C-C--C-C-CC--CCCCCC--CC--C--C-CCC----CCC--C-CCC--C---C-C-CCC---CC--C-CC-C-C------C---CCC---------C---C------C-C-C-C--C-C-CC-CC-CC-C---CCC-C-----------CCC--C-C---C-C-C---C-C-C- | 200
+Mastermind  | --CC-----------------CCCCC-C-CCCCCCCCCCCCC-CCCCC-CC-CC--CCCC-CCCCCCC-CC--C-C-CCCCCCCCCCC-CCCCC-C-CCCC-CCCC-CCC-CCCCCCCCC-CCCC-CCCC-CCCCCCCCCCC-C-CC-CC-CC--C-C-CCCCCCCCC-CCC-CCCC--CC-CC-CC-CCCC-CCCCCCC | 29
 
-Mayorista   | -C-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC---- | 2
-Mastermind  | C-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC----------------------------------------------------------------------------------------------------- | 290
+Mayorista   | -C------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | 3
+Mastermind  | C--C---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 0
 
-Proba       | C-CCCCCCCCCCCCCCCCCC-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC-CCC--C-C-CC-C-CC-----C-C--C--CC-C-C-C--C-C---C-C---CC--C--C--C---------C----CC-C-C---CC---CCC-C------------C--C--C-C-C-C---C-------C--C----C------ | -21
-Mastermind  | -CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC---------------------------------------------------------------------------------------------------------------------------------------------------------------- | 159
+Proba       | CCCCCC-----CC--C-CCCCCCC--CCCCCCCCCCCCCCCC-CCCCCCCC-CCCCCCCCC-CC-CC-CCCCCCCCCCCCCCCCCC-CCCC-C-CCCCCC---CCC-CC--CCCCCCC-CCC-C-C---CC--CCCCCC-C-C-CCC-CCC-CC-C-CCC-CCCCCC-CCCCCCCCCCCC-CC-CC-CCC--C-CCCCCC | 143
+Mastermind  | C-CC-----CCCCCCCCCCCCCCCCCCCCCCCCCCCC--CCCCCCCCCC-CCCCCC---CCCCCCCCCCCCCCCCCCC-C--CCCCCC--C-C-CCCCC---C--CC--CC-----CC-C----CCCCCCCCC--CC-CCCCC-CC-CCCCCCC-CCCCCC-CCCCCCC-CCCC-CCC-C-CC-C-CCCC--C-CCCCCC | 158
 
-Mastermind  | 1469
-Rencorini   | 1240
-Lucifer     | 1038
+Rencorini   | 1229
+Proba       | 1072
 Copycat     | 1029
-Proba       | 917
-Mayorista   | 623
-Alterneitor | 580
-El Jajas    | 563
-Azaroso     | 519
-Michael     | 484
+Lucifer     | 1014
+Mastermind  | 908
+El Jajas    | 905
+Azaroso     | 856
+Alterneitor | 612
+Mayorista   | 606
+Michael     | 486
 
-----------------Ronda 4 -------------
+----------------Ronda 6 -------------
 
-Alterneitor | C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C- | -94
-Mastermind  | -CCC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 197
+Alterneitor | C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C- | -92
+Mastermind  | CCCC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 196
 
-El Jajas    | CCC-CCC-CCC--C-CC-CCC-CC-CCC-C--C--C---CCC--CCC--C-C-CCC---C---C--CCC----CCC-CCC-C--CC---CCC-C-CCC-CC-C---CC--CC-CCC----CCC-----CCC-CC-CC-C-C-C--CCC--C-CCC-CCC--CC-CC-C-CCC-C-CC--C-C--C-CCC-C-CC-CC--C | -105
-Mastermind  | C-CC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 219
+El Jajas    | CC-CCC-CCC---CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CC---C-C--C--C-C-CCC-CCC--CC--CCC-CCC-CCC-CCC-CCC-CCC-C-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-C-C | 164
+Mastermind  | --CC--CCCC---CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC----------------------------C---CCCCCCC-C-CCCCCCCCCC-CC---CCCCCCCCCCCCCCCCCCCC-CCCCCC-CCC-CCCCCCCC-CC | 128
 
 Rencorini   | CCCCC--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 3
 Mastermind  | CCCC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 6
 
-Copycat     | CC-C-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC---------------------------------------------------------------------------------------------------- | 96
-Mastermind  | C-C-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC----------------------------------------------------------------------------------------------------- | 99
+Copycat     | C---C-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC---------------------------------------------------------------------------------------------------- | 94
+Mastermind  | ---C-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC----------------------------------------------------------------------------------------------------- | 97
 
-Lucifer     | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 2
-Mastermind  | ---C---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -1
+Lucifer     | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 6
+Mastermind  | CC-C---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -3
 
-Michael     | CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC | -192
-Mastermind  | CCCC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 396
+Michael     | CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC | -194
+Mastermind  | -CCC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 397
 
-Azaroso     | CC-C-C-CCCCCC--CC--CCC-C-CCCCCC-CCCCCCCCC---C-C---C-C-C--C-C-C----C--C-C------C--CC-CCCC-C-C-C-CC--CC-CC---CC--C-C--CCC---CC----C--CCCC-CC-------C--CCC-CC------C-CCC-C--CC-C-CCCCCCC--------CCC------C- | -61
-Mastermind  | C--C--CCCCCCCCCCCCCCCC--C------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 179
+Azaroso     | CCCC---C---CC----C-CCC-C-C--CC-CC-CC---C-C---C-CC-CC--CC---CCCCC--C--------C---C----CC-CCCC--CCCC-C-CC-CCCCCC-C---CC--CCCC-C-CC-C-CCCC-CC--C-CC-CC--C------CC-CC--CCC-C-C--CC---CC-CC----CCC------C-C-CC | 198
+Mastermind  | C-C----CCC--C-CCCCC-CCCCCCCC-CCC-CCCCCC-C-C--C-CC-CCCC-CCC-C--CCCC-CCC-CCCCCCCCCCCCCC-CC-CCC-CC-CCCC-CCCCC-CCC-CC-CCC--CC--C--CCCCCCCCC-CCCCCCCCCCC-CCCCCC-C--C--CCCC-CCCCCCC-CCCCCCCCC--CCC-CCCCC--CCCC | 51
 
-Mayorista   | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 4
-Mastermind  | -C-C---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -2
+Mayorista   | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 2
+Mastermind  | --C----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -1
 
-Proba       | C----C-C----C---------------C------C-C--------------C-C-C--C-C-C---C-----------C-CC--------C--C----C------C---------C-------------------------C--------------------C-----------C------------------------ | -9
-Mastermind  | -CC-------------------------------CCCCC-----C----------------------------------------------------------------------------------------------------------------------------------------------------------- | 42
+Proba       | C-C-C--CCC--C--C--------------C---CC-C-CC-C-C-C-C-CC--CCCC--CCCC--C--CCCC---CCCCCC-CCCC-CC-CC-C--C-CCC--C--C---CC-CC--CCC-CCCC-CCCCCC-CC-CCCC--C-----CCCCCCC---CCC-CCCCC-C-C-CCCCCC--C-CC--CCC-CCCCC-CCC | 157
+Mastermind  | -CCC---C-----------------CCCCCCCCCCCCCCCCCCCCCCCC-CCCCCCCCCCC-C-CCCCCCC--C-CCCC-CCCC-CCCCC-CCCC--CCCC-C-C--CC-CCCCCCC-CCCC-C---C-C-C--CCC-CCCCCCC--CC--CC--C-CCC-CCCC--C-CCCCCC-CC-CCC-CC-CCCCC-CCCCC-CC | 94
 
-Rencorini   | 1202
-Mastermind  | 1135
-Copycat     | 1118
-Lucifer     | 1002
-Proba       | 932
-Azaroso     | 755
-El Jajas    | 613
-Alterneitor | 608
-Mayorista   | 545
-Michael     | 502
+Rencorini   | 1247
+Copycat     | 1128
+Proba       | 1080
+Lucifer     | 1030
+Mastermind  | 965
+El Jajas    | 878
+Azaroso     | 698
+Mayorista   | 691
+Alterneitor | 570
+Michael     | 530
 
-----------------Ronda 5 -------------
+----------------Ronda 7 -------------
 
 Alterneitor | C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C- | -98
 Mastermind  | --C----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 199
 
-El Jajas    | CCC-C-CCC---CC--C-CCC-CCC-C-CCC--CCC-CC--CCC---C-CC-CCC-C--CC-CC-CC-C-CCC-CCC----CC-CCC-C--C-CCC-C--CC-CC-C--CC--CC-CCC--C-C--CCC-CCC---CC--CC-CCC-C-C-CCC-CC--C-CCC----CC-C-C--CC-C-CC-CCC---CCC-CC---C | -109
-Mastermind  | -CCC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 227
-
-Rencorini   | CC------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | 0
-Mastermind  | C------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 3
-
-Copycat     | CCCC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 2
-Mastermind  | CCC----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 5
-
-Lucifer     | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 2
-Mastermind  | ---C---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -1
-
-Michael     | CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC | -194
-Mastermind  | CCC----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 397
-
-Azaroso     | --CC-C-C-----CC-C-CC-CC---CC---C-CC-CC--------CC-CC-CCC-C--C-C-C-CCCC--C-C------C-CCCC--CCC--CCCCCC----CCCCCC---CC---C-CC-CCCC-----C-C----C--C-------C-CC-CCCC----CC-C--C-CC--CC--C--C-CCC-CC---CCCCCCCC | -78
-Mastermind  | -C-C------CCCCCCCC-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 186
-
-Mayorista   | ---C---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 7
-Mastermind  | -CC-----CC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -2
-
-Proba       | C-----CCCC-----------------C---C-----CCCCC-C-----C---CC--CC-C---C---CCC-C----C-C-C--C------CC---C----------C---C--CC----C-C--C--CC---C-------C---C-------C---C-------C-----C-C---------------CC-----C--- | 11
-Mastermind  | --C-----------------CCCCCCCCCCCCC----CCCCCCCCCCC------CCCCCC-------------------------------------------------------------------------------------------------------------------------------------------- | 71
-
-Rencorini   | 1259
-Mastermind  | 1085
-Lucifer     | 1046
-Copycat     | 1029
-Proba       | 939
-Mayorista   | 676
-El Jajas    | 642
-Alterneitor | 572
-Michael     | 502
-Azaroso     | 457
-
-----------------Ronda 6 -------------
-
-Alterneitor | C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C- | -96
-Mastermind  | -C--C--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 198
-
-El Jajas    | CCC-CC----CCC-C-C-C-----C-C--CCCC--CCC-CC--CCC-C-C--C-CCC-C-C-CC--CCC---C-CC-CC-CC-CCC-CC--CCC-CCC---CCC-C---CC-CCC--CC-CCC-CCC-----CCC--C-----C-CCC--C-C--CC-CCC-CC--C-CCC--C-C-C--C-CCC-------CC-CC-CC | -103
-Mastermind  | -C--------C--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 212
-
-Rencorini   | CCCCC--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 3
-Mastermind  | CCCC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 6
-
-Copycat     | C-C-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC---------------------------------------------------------------------------------------------------- | 96
-Mastermind  | -C-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC----------------------------------------------------------------------------------------------------- | 99
-
-Lucifer     | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 0
-Mastermind  | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 0
-
-Michael     | CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC | -198
-Mastermind  | C------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 399
-
-Azaroso     | -------C---CC---C-C--C-CCCCC-C-CC------C----CC--C--CCCCC---C----CC----CCC--C--CC-----CCCC-CCCC--CCCC----C---C-C-CC-CCCCCCC---C----CC-C-CC--C---CCCCC-CC---CCCCC-C--CCCCCCCC-C---C--C--C-C-C----------CC- | -86
-Mastermind  | CCC----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 181
-
-Mayorista   | ---CCC---CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC---------- | 6
-Mastermind  | -CCC---CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC----------------------------------------------------------------------------------------------------- | 273
-
-Proba       | C------C------C--------------------------C-C-C---C---CC-------CC-C--C--C--CCC--C-------C--C---C---C-C-C--CCC--C--CCC---C-C-C--CC----C-C-----C--------C-C--C-C---CC---C------------C-----------C--C--C--- | 12
-Mastermind  | ---C------------------------------CCCCCCCCCCCCCC--CCCCC-----CCCCCCCCCCC--------------------------------------------------------------------------------------------------------------------------------- | 69
-
-Mastermind  | 1437
-Rencorini   | 1210
-Copycat     | 1119
-Lucifer     | 1046
-Proba       | 943
-Azaroso     | 783
-El Jajas    | 597
-Alterneitor | 580
-Mayorista   | 531
-Michael     | 492
-
-----------------Ronda 7 -------------
-
-Alterneitor | C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C- | -92
-Mastermind  | -C-CCC-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 196
-
-El Jajas    | C--CC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CC---CCC-CCC--C--CCC-CC-CC---C-CCC-CCC-CC--CC-C---C---C-CCC-CC--C-CCC-CCC-C---CCC--CCC-C-CCC-CC--CC-CC | 59
-Mastermind  | ---C-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC----------------------------------------------------------------------------------------------------- | 167
-
-Rencorini   | C------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 3
-Mastermind  | --CC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 0
-
-Copycat     | CCCC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 2
-Mastermind  | CCC----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 5
-
-Lucifer     | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 4
-Mastermind  | C--C---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -2
-
-Michael     | CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC | -196
-Mastermind  | --CC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 398
-
-Azaroso     | -CCCC-CC--C--CCCCC-CC-C-CC-CCC---CCC-----CC-C-C-C-CCCCCCCC-CC-C-C--CC---C--CC-C-C----C----CCC-------C-CC---C--C-CC-CC---C-----CC-CC-CC----C-CCCCCC--CCC-C-C-CCC-CCCCC--CC--CC-C-----CC----C-C---CCCCCCC- | -99
-Mastermind  | -C-C---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 204
-
-Mayorista   | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 4
-Mastermind  | -C-C---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -2
-
-Proba       | C-----C-------C----C---CCC--CC-C---C---C--C------C-C---C----------------C---CCC----------------------------------C---------C-----------------------------------C--C--------------C---------------------- | -5
-Mastermind  | --CC---------CCCCCC-CC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 40
-
-Rencorini   | 1212
-Copycat     | 1039
-Lucifer     | 1030
-Mastermind  | 1006
-Proba       | 911
-El Jajas    | 762
-Mayorista   | 653
-Alterneitor | 588
-Azaroso     | 545
-Michael     | 512
-
-----------------Ronda 8 -------------
-
-Alterneitor | C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C- | -94
-Mastermind  | -CCC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 197
-
-El Jajas    | CCC-C---CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC--CC--CCC-----CCC-CCC-CCC-CC---CCC-CC------C--C-CC--CC--CCC-C--CC-CCC-C-CC--CCC--CC-C-C-C-CCC-----C-- | 64
-Mastermind  | -C-C---CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC----------------------------------------------------------------------------------------------------- | 154
+El Jajas    | CCC-CCC--CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC--C-C-CCC-CCC-C--CC-CCC-CCC-CCC--CCC-CCC-CCC-C-C-CC-CC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-- | 179
+Mastermind  | CC-C-C--CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC--------------------CCCCCCCC-CCC-CCCCC-CCCCC-C-C-CC-C--CCC-CCCCCCCCC-CCCCCCCCCCCC--C-CCCCCCCCCCCCCC-C | 125
 
 Rencorini   | C------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 1
-Mastermind  | ---C---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 1
-
-Copycat     | CCCC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 2
-Mastermind  | CCC----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 5
-
-Lucifer     | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 8
-Mastermind  | CCCC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -4
-
-Michael     | CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC | -196
-Mastermind  | C-C----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 398
-
-Azaroso     | -CC------CC---CC-CCC-CCC--C---C-CC--C-C-C-C-C-CC-C----CCC-C-CC--C--CC-CCCC--C-CCC-C-CC-CCC--CC-C-------C--CCCCCCCC-CCC----C-C-C--CCC-CCCCCCC---C------CCCCC-C-CCC--C-C-C-CCC-CC-CCCCC-C----C---C-----CCC | -98
-Mastermind  | CCC----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 205
-
-Mayorista   | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 2
-Mastermind  | -C------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -1
-
-Proba       | C------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -1
-Mastermind  | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 2
-
-Rencorini   | 1243
-Lucifer     | 1044
-Copycat     | 1036
-Mastermind  | 957
-Proba       | 912
-El Jajas    | 754
-Azaroso     | 699
-Alterneitor | 626
-Mayorista   | 535
-Michael     | 510
-
-----------------Ronda 9 -------------
-
-Alterneitor | C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C- | -94
-Mastermind  | -CCC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 197
-
-El Jajas    | CCC-C-CCC-CCC---CCC-CC-C-C--CCC---C--CCC-C-CCC-CC-C---C---C-CCC-C----CCC----CC--CCC-CC--CC---CC--CCC-CC-CC-CCC-C-C-CCC-C-CCC-CC-CCC-C--C--CCC-C-C-CC--CCC-CC-C--C-CCC-C--CCC--CC--C-CCC-C-C-C-CCC-C---CC | -101
-Mastermind  | C-CC--C-C--C-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 220
-
-Rencorini   | CC------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | 0
-Mastermind  | C------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 3
+Mastermind  | -C------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | 1
 
 Copycat     | C--C-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC---------------------------------------------------------------------------------------------------- | 95
 Mastermind  | --C-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC----------------------------------------------------------------------------------------------------- | 98
 
-Lucifer     | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 4
-Mastermind  | C-C----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -2
+Lucifer     | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 6
+Mastermind  | -CCC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -3
+
+Michael     | CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC | -198
+Mastermind  | --C----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 399
+
+Azaroso     | -C---C-----C-CCCCCC-CC-CC-C-CCCCC-CC-C-CC---CCCCC-C-C-C--C-CCC-CC-CCCCC-C----C-CCC-C-----CC---C--C-C-C-C-----C-C-CC--C-CC-CCC-C-C----CC--CC-C-C--C---C--C-C------CC--C--C-C--C-C--CCCC-C-CCC-CCCCC---CCC | 213
+Mastermind  | ---C--CCC-CCCCCCCCCCCCCCCCCCCCCCCC-CCCCCCCCCCCCCCCCCC-CCCCCCCC--CCCCC-CCCC-CCC-CCCC-CCCC-CC--CC-CCCCCC--CCCC-CC---CC-CCCC-CCCCCCCCCCCCCCCC-CC---CCCC----CCCC-C-CCC-CCCCCCC-CCC-CCCCC--CC-CCCCCCCCCCC-CCC | 45
+
+Mayorista   | -CCCCC-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 7
+Mastermind  | CC-C------CCC------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 4
+
+Proba       | C-CCCCCCCCCCCC------CCCC--C--CCCC-CCCC-CC-C-C-CCCCC-CCC-CCCCCC-CCC-CCCC--CCCCCCCCCC-C-CC-CC-CC--C-CCCCC--CCCC-C-CCCC-C-C-CC-C---CCCCC-CC-CCCC-CC-CC-C-CCC-CCCCCCCCCCCCCCC-CCC-C-CCCCCC-CCCCCCCCCCC-CCCC- | 153
+Mastermind  | -CC-CCCC----------CCCCCCCCCCCCCC-C-CCCCCCC-CCCCCC--CCC-C-C-CC-CCCCCCCCCCC-CCC-CC-C-CCC-CCCC-CCCCCCCC--CC-CCCCC-CC-CC--CC--CC-CCCCCCCCCCCC-CCCCCCCCCC-CC-C-CCCCCC-CC-CCC-CC-CCCC-CC-C-C-CCCCCCCCCCCCC-CCC | 144
+
+Rencorini   | 1215
+Copycat     | 1143
+Proba       | 1075
+Lucifer     | 1038
+Mastermind  | 1012
+Azaroso     | 914
+El Jajas    | 865
+Mayorista   | 616
+Alterneitor | 612
+Michael     | 500
+
+----------------Ronda 8 -------------
+
+Alterneitor | C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C- | -98
+Mastermind  | C------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 199
+
+El Jajas    | CCC---CC-C-CCC-C-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-----C-CCC-CCC-C-C-CCC-CCC-CCC--CCC-CC-CC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CC | 188
+Mastermind  | CCC---------CCC-CCCCCCCCC-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC-------CCCC-CC-C-C-CCCCCCC-CCCC-CC-CCC-CC-CCCCC-CCCC-CCC--CCC-CCCCCCCCCCC-CCCCCC-CCCCCCCCCCCCCCCCCC-C | 119
+
+Rencorini   | CCCCC--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 3
+Mastermind  | CCCC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 6
+
+Copycat     | CC--C-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC---------------------------------------------------------------------------------------------------- | 95
+Mastermind  | C--C-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC----------------------------------------------------------------------------------------------------- | 98
+
+Lucifer     | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 2
+Mastermind  | -C------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -1
 
 Michael     | CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC | -196
-Mastermind  | -CC----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 398
+Mastermind  | C--C---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 398
 
-Azaroso     | --C-CC-C--C--C-CCC-----CCCCCCCC-CCC-C-CC--C-----CCCC-C--C-CC--C-CCC-C--C---CCC-CCC-CC-C---C------CCC-C-CCC-CC-----C-C-C--CC-CCCCC--C-CCC-CCC-CC-C-CC-CC--CC---CC--C--C----CC-C-CC--CCCC--CCC-C--C-C-C--- | -103
-Mastermind  | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 206
+Azaroso     | ---C--CC-C---------CCC-CC--C-----C-CCC-C--------C-CCC-CC--CCC---CC---C--CCCC--CCCCCCC--C---C-----CCCC--C-C-CC-----C---CC----CC-CC-CCCCC-CCC--C-C----C-CC--C-C---C--CC--CC---C---C-CC-C-CCCCCC--CCCCCCC-- | 213
+Mastermind  | CC-C-----CCC---CCCCCCCCCCCCCCCCCCCCCC-CCCCCCCC--CC-CCCC-CCCCCCCCCC-CC-CC--CCCCCCCCCCCCC-CCCCC-C-CCCCCCCCCCCCCC-CCCCCC--CCCC-CCCCCCCCCCC-C---C-CC-CC-CC----C--C-CCCCCC--CCCCCCCC-CC--CCCCCCCCCC-CCC-CC-CC | 33
 
-Mayorista   | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 4
-Mastermind  | --CC---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -2
+Mayorista   | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 2
+Mastermind  | -C------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -1
 
-Proba       | CCCCCCCC---------------CC-CCCCC----C---CCCC---C-C-C-C-C----C---C-------CC--CC--C---C----C------C-CCC-C----------------C-C----------------C-C------CC-C----C----------CC---------------C----C-----C------ | -6
-Mastermind  | C-C--------------CCCCCC-CCCCCCCCCCCCCC---------C-------------------------------------------------------------------------------------------------------------------------------------------------------- | 81
+Proba       | CCCCCCCC--CC----C-----C-C-CCCC-C-CC-CC-C--C--CCCCC----C-C-CCCC-C-CCCCCCCCCCC--C--C--CC-CCCCCCCC-C-C--C-CCCC---CC-CC-CCCC-CC----CCC-C--CCCCCCCCCC-C--CCCCC-CCCCCC-CC-CCCC--CCCCCC-CC-CCCC-CCCCC--CCC-CCC- | 159
+Mastermind  | CC-C--------------CCCCCCCCC-C-C-C-CCCCCC-CC-CCCCCCCC-CCCCCCCCCC-CCCC--CCCC-CCCCCC---CCCCCCCC-CCC--CCCC-CCC-CC-CCCC-CCCCCCCCCC--CCC-CCCC-CC---CCCCCCCC-CCCCCCCCC--CCCCCC-CCCCC---CCCCCCCCCCCCCCCC---C-CC- | 117
 
-Rencorini   | 1201
-Mastermind  | 1199
-Copycat     | 1126
-Lucifer     | 1028
-Proba       | 958
-Mayorista   | 702
-Alterneitor | 612
-El Jajas    | 592
-Michael     | 482
-Azaroso     | 312
----------------Final: 10 Competidores---------------
----------------100 rondas de 150---------------------
-Primero: 2
-Segundo: 5
-Tercero: 1
-Cuarto: 2
+Rencorini   | 1226
+Copycat     | 1135
+Proba       | 1092
+Lucifer     | 1000
+Mastermind  | 968
+El Jajas    | 905
+Mayorista   | 693
+Azaroso     | 655
+Alterneitor | 618
+Michael     | 524
+
+----------------Ronda 9 -------------
+
+Alterneitor | C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C- | -96
+Mastermind  | -CC----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 198
+
+El Jajas    | CCC-CCC--CCC-CCC-CC---C-CCC-CCC-C-CCC-CC-CC-CC-CCC-CCC--CCC-CCC-C-C--CCC-CCC-CCC-CCC-CCC-C-CCC-CCC-CCC-CCC-CCC-CCC-CC-CCC-CCC-CCC-CCC-C-CCC--CC-CCC--CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-CCC-C-CCC-C | 134
+Mastermind  | C--------C-----------C-CCCCCCCCC-CCCCC--C--CC-CCCCCCCC-CC--C-CCC-C---CCC-CCCC--CCCCCCCCC--C-CCCC-CCCCCCCC-C-C-CCCCCC-CCC-C---CC-CCCC-C-CCCC-CC-CCCC-CC-CCCCCCC-CCCCCCCCCCCC-CCCCC-CCCCCCC-CCCCCC--CCC-CC | 143
+
+Traceback (most recent call last):
+  File "Tournament.py", line 116, in <module>
+    run()
+  File "Tournament.py", line 95, in run
+    t.round_robin()
+  File "Tournament.py", line 78, in round_robin
+    (match_score1, match_score2) = self.play_match(
+  File "Tournament.py", line 52, in play_match
+    (s1, s2) = (p1.pick_strategy(), p2.pick_strategy())
+  File "/home/lucy/Documents/TDJ/torneo/PlayerMastermind.py", line 86, in pick_strategy
+    self.calculate_similarity() # Me fijo a que posible oponente se parece mas mi oponente
+  File "/home/lucy/Documents/TDJ/torneo/PlayerMastermind.py", line 43, in calculate_similarity
+    similarity = StrategyMatcher(None,self.possible_strategies[strategy],self.other_strategy_history).ratio()
+  File "/usr/lib/python3.8/difflib.py", line 644, in ratio
+    matches = sum(triple[-1] for triple in self.get_matching_blocks())
+  File "/usr/lib/python3.8/difflib.py", line 479, in get_matching_blocks
+    i, j, k = x = self.find_longest_match(alo, ahi, blo, bhi)
+  File "/usr/lib/python3.8/difflib.py", line 410, in find_longest_match
+    k = newj2len[j] = j2lenget(j-1, 0) + 1
+KeyboardInterrupt

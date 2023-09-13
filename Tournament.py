@@ -87,7 +87,7 @@ def run():
   second = []
   third =[]
   fourth = []
-  for iter in range(10):
+  for iter in range(50):
     print("\n----------------Ronda", iter, "-------------\n")
     competing = [Alterneitor, Jajas, Rencorini, Copycat, Lucifer, Michael, Azaroso, Mayorista, Proba, Mastermind]
     #competing = [Alterneitor, Rencorini, Copycat, Lucifer, Michael, Mastermind]
